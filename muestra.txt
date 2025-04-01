@@ -1,2 +1,1 @@
-Este es el texto modificado desde la main
-Este es el texto modificado desde la rama borrador :D.
+
